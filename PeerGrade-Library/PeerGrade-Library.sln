@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerGrade-Library", "PeerGrade-Library.csproj", "{B0BA5C56-5905-4BDC-A833-35E188FB9A27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EBookLib", "..\EBookLib\EBookLib.csproj", "{C029A47F-C9F2-4594-B47F-14B0ED071710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BA5C56-5905-4BDC-A833-35E188FB9A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BA5C56-5905-4BDC-A833-35E188FB9A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BA5C56-5905-4BDC-A833-35E188FB9A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BA5C56-5905-4BDC-A833-35E188FB9A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C029A47F-C9F2-4594-B47F-14B0ED071710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C029A47F-C9F2-4594-B47F-14B0ED071710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C029A47F-C9F2-4594-B47F-14B0ED071710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C029A47F-C9F2-4594-B47F-14B0ED071710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEFD77E4-283C-47C3-AADC-63DA76317617}
+	EndGlobalSection
+EndGlobal

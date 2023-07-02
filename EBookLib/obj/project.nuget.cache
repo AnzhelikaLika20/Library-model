@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzyqU5ZY2RWlYZjxtqWWSR9bcM9k28O0Zn55OkRfypwaM1PSWcBYajxvFKrgjKEEyNpUvAXofD+Xckb6H31tSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zver\\Desktop\\ВШЭ\\Программирование\\PeerGrade-Library\\EBookLib\\EBookLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
